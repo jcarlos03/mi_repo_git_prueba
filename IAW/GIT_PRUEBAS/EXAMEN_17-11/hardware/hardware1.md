@@ -2,7 +2,7 @@
 
 ## Un motor potente para tu computadora
 
-[Imagen del procesador Intel Core i7](.\intel.jpg)
+![Imagen del procesador Intel Core i7](https://github.com/jcarlos03/mi_repo_git_prueba/blob/main/IAW/GIT_PRUEBAS/EXAMEN_17-11/hardware/intel.jpg?raw=true)
 
 El procesador Intel Core i7 de 10ª generación es una pieza clave de hardware que impulsa el rendimiento de las computadoras modernas. Con una combinación de velocidad, eficiencia y capacidades avanzadas, este componente es ideal para usuarios exigentes y aplicaciones intensivas.
 
